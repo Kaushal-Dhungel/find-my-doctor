@@ -254,7 +254,7 @@ const ProfileEdit = ( {isAuthenticated, onAuthLogout}) => {
                     <div className="container" style = {{marginTop : "10vh"}}>
                       <div className="box-element">
                           <div className="roomie_link_inside">
-                              <h5> PLease update your phone so that it'd be easier for the potential client to contact you .</h5>
+                              <h5> PLease update your phone so that it'd be easier for the patients to contact you .</h5>
                           </div>
                       </div>
                     </div>
