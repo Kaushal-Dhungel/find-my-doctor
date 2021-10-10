@@ -6,7 +6,7 @@
 
 ## About
 
-![main img](https://github.com/Kaushal-Dhungel/find-my-doctor/blob/master/backend/thumbnails/doctor.png)
+![main img](https://github.com/Kaushal-Dhungel/find-my-doctor/blob/main/backend/thumbnails/doctor.png)
 
 According to separate researches conducted by the University of Miami, 
 [see here](https://news.miami.edu/stories/2020/08having-a-doctor-who-shares-the-same-race-may-ease-patients-angst.html) ,
