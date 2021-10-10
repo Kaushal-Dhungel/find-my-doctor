@@ -1,0 +1,14 @@
+backend/staticfiles
+backend/media
+backend/db.sqlite3 
+backend/env
+*.pyc
+*.pyo
+*.env 
+*__pycache__
+
+react_frontend/node_modules
+react_frontend/npm-debug.log*
+react_frontend/yarn-debug.log*
+react_frontend/yarn-error.log*
+react_frontend/debug.log
